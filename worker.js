@@ -1,4 +1,4 @@
-// CF 优选 IP 服务 - 针对云南电信优化
+// CF 优选 IP 服务 - redeploy - 针对云南电信优化
 // 绑定域名: ip.laoguo.eu.org
 
 const PREFERRED_IPS = {
